@@ -18,11 +18,12 @@
     "button",
     "test"
   ],
+  "dependencies": {
+    "@shared/utils": "workspace:*"
+  },
   "devDependencies": {
-    
     "@types/react": "^18.2.15",
     "react": "^18.2.0",
- 
     "typescript": "^5.1.6"
   },
   "peerDependencies": {
