@@ -1,0 +1,27 @@
+{
+  "name": "shared",
+  "version": "1.0.2",
+  "description": "This is test button made for a tutorial",
+  "main": "dist/cjs/index.js",
+  "files": [
+    "dist"
+  ],
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "rollup -c --bundleConfigAsCjs"
+  },
+  "author": "MUK-Dev",
+  "license": "MIT",
+  "type": "module",
+  "keywords": [
+   "shared"
+  ],
+  "devDependencies": {
+    "@types/react": "^18.2.15",
+    "react": "^18.2.0",
+    "typescript": "^5.1.6"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0"
+  }
+}

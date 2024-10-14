@@ -1,1 +1,3 @@
-export * from './components'
+import { sharedCode } from "shared";
+
+console.log(sharedCode)

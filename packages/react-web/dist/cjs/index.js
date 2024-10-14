@@ -1,2 +1,2 @@
-import e from"react";const t=({children:t})=>e.createElement(e.Fragment,null,e.createElement("button",{style:{padding:"1em"}},t));export{t as Button};
+console.log(12);
 //# sourceMappingURL=index.js.map

@@ -1,1 +1,1 @@
-{"version":3,"file":"index.js","sources":["../../../src/Home.tsx"],"sourcesContent":[null],"names":["CustomText","React","createElement","Text"],"mappings":"yDAIM,MAAAA,EAAa,IAEXC,EAAAC,cAACC,EAAI,KAAA"}
+{"version":3,"file":"index.js","sources":["../../../shared/dist/cjs/index.js","../../../src/Home.tsx"],"sourcesContent":["const o=12;export{o as sharedCode};\n//# sourceMappingURL=index.js.map\n",null],"names":["CustomText","React","Text"],"mappings":"yDAAA,MCKMA,EAAa,IAEXC,gBAACC,EAAI,kBDPL"}

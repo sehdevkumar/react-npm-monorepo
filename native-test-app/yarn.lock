@@ -6881,7 +6881,7 @@ react-native@0.74.5:
     ws "^6.2.2"
     yargs "^17.6.2"
 
-react-natives@/home/sehdev/Desktop/react-npm-monorepo/packages/react-natives:
+"react-natives@file:../packages/react-natives":
   version "1.0.2"
 
 react-refresh@^0.14.0, react-refresh@^0.14.2:

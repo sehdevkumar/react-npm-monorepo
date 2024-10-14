@@ -16,6 +16,7 @@
     "allowSyntheticDefaultImports": true,
     "emitDeclarationOnly": true,
     "paths": {
+      "shared/*":["/packages/shared/*"]
     }
   },
 }

@@ -1,1 +1,1 @@
-{"version":3,"file":"index.js","sources":["../../../src/components/Button/Button.tsx"],"sourcesContent":[null],"names":["Button","children","React","createElement","Fragment","style","padding"],"mappings":"qBAKA,MAAMA,EAAmB,EAAEC,cAIvBC,EAAAC,cAAAD,EAAAE,SAAA,KACEF,EAAAC,cAAA,SAAA,CACEE,MAAO,CACLC,QAAS,QAGVL"}
+{"version":3,"file":"index.js","sources":["../../../src/index.ts","../../../shared/dist/cjs/index.js"],"sourcesContent":[null,"const o=12;export{o as sharedCode};\n//# sourceMappingURL=index.js.map\n"],"names":["console","log"],"mappings":"AAEAA,QAAQC,ICFA"}

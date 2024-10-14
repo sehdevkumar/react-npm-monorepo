@@ -1,10 +1,10 @@
 {
   "compilerOptions": {
     "target": "ESNext",
-    "module": "ESNext",
-    "esModuleInterop": true,
+    "module": "ESNext",                                
+    "esModuleInterop": true,                                                     
     "forceConsistentCasingInFileNames": true,
-    "strict": true,
+    "strict": true,                                    
     "skipLibCheck": true,
     "rootDir": ".",
     "jsx": "react",
@@ -16,7 +16,6 @@
     "allowSyntheticDefaultImports": true,
     "emitDeclarationOnly": true,
     "paths": {
-      "shared/*": ["/packages/shared/*"]
     }
-  }
+  },
 }
