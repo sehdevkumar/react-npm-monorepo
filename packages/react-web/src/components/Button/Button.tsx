@@ -1,4 +1,3 @@
-import { upperCase } from "@shared/utils";
 import React, { FC, ReactNode } from "react"
 interface Props{
     children: ReactNode | ReactNode[]
@@ -17,7 +16,6 @@ const Button:FC<Props> = ({children}) => {
         {children}
       </button>
 
-      <p>{upperCase("w")}</p>
 
     </>
   );

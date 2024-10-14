@@ -1,0 +1,32 @@
+{
+  "name": "react-natives",
+  "version": "1.0.2",
+  "description": "This is test button made for a tutorial",
+  "main": "dist/cjs/index.js",
+  "files": [
+    "dist"
+  ],
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "rollup -c --bundleConfigAsCjs"
+  },
+  "type": "module",
+  "keywords": [
+    "expo",
+    "sk-native"
+  ],
+  "author": "Sehdev Kumar",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react-native": "^0.73.0",
+    "react-native-unimodules": "^0.14.10",
+    "@types/react": "^18.2.15",
+    "react-native":"0.75.1",
+    "react": "^18.2.0",
+    "typescript": "^5.1.6"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  }
+}
