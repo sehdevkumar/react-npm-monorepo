@@ -19,7 +19,7 @@
     "test"
   ],
   "dependencies": {
-    "@shared/utils": "workspace:*"
+   
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
